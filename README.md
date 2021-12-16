@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Mehruddin Khan</h1>
     <h5 align="center">
-       My name is Mehruddin khan persuning bachelor in computer and enineering 
+       My name is Mehruddin khan persuing bachelor in computer science and engineering 
       
      
     
